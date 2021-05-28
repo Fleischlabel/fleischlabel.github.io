@@ -1,0 +1,12 @@
+body::after {
+    content: "";
+    background-image: url("../images/nadine-redlich-c0Gc6RZgV14-unsplash.jpg");
+    background-position: center;
+    opacity: 0.5;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    position: absolute;
+    z-index: -1;
+}
